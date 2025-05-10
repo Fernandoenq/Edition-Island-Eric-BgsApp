@@ -1,0 +1,13 @@
+-- CreateTable
+CREATE TABLE "samsung" (
+    "id" TEXT NOT NULL,
+    "NOME_CLIENTE" TEXT NOT NULL,
+    "WHATSAPP_CLIENTE" TEXT NOT NULL,
+    "ID_IMAGEM" TEXT NOT NULL,
+    "IMAGEM_ENVIADA" TEXT NOT NULL,
+
+    CONSTRAINT "samsung_pkey" PRIMARY KEY ("id")
+);
+
+-- CreateIndex
+CREATE UNIQUE INDEX "samsung_ID_IMAGEM_key" ON "samsung"("ID_IMAGEM");

@@ -1,0 +1,18 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Samsung {
+  id               String @id @default(uuid())
+  NOME_CLIENTE     String
+  WHATSAPP_CLIENTE String
+  ID_IMAGEM        String @unique
+  IMAGEM_ENVIADA   String
+
+  @@map("samsung")
+}

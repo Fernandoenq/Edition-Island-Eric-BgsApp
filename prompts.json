@@ -1,0 +1,588 @@
+{
+  "cosplay": [
+    {
+      "images": "/cosplay/mario_bros.png",
+      "description": "",
+      "value": "Mario Bros",
+      "prompt": "<image> Super Mario Bros Style, Ultra HD, 8k",
+      "prompt_masculino": "<image> A Man in a Super Mario Bros Style, Ultra HD, 8k",
+      "prompt_feminino": "<image> A Woman in a Super Mario Bros Style, Ultra HD, 8k"
+    },
+    {
+      "images": "/cosplay/hq.png",
+      "description": "",
+      "value": "Quadrinho (HQ)",
+      "prompt": "<image> comic strip style, ULTRA HD, 8K",
+      "prompt_masculino": "<image> A Man in a comic strip style, ULTRA HD, 8K",
+      "prompt_feminino": "<image> A Woman in a comic strip style, ULTRA HD, 8K"
+    },
+    {
+      "images": "/cosplay/cyberpunk.png",
+      "description": "",
+      "value": "Cyberpunk",
+      "prompt": "<image> Cyber Punk, Futurista, Ultra HD",
+      "prompt_masculino": "<image> A Man in a Cyber Punk style, Futurista, Ultra HD",
+      "prompt_feminino": "<image> A Woman in a Cyber Punk style, Futurista, Ultra HD"
+    },
+    {
+      "images": "/cosplay/anime.png",
+      "description": "",
+      "value": "Anime",
+      "prompt": "<image> Anime Style, High Quality Image, Ultra HD",
+      "prompt_masculino": "<image> A Man in a Anime Style, High Quality Image, Ultra HD",
+      "prompt_feminino": "<image> A Woman in a Anime Style, High Quality Image, Ultra HD"
+    },
+    {
+      "images": "/cosplay/barbie.png",
+      "description": "",
+      "value": "Barbie",
+      "prompt": "<image> Barbie Style, Ultra HD, 8k",
+      "prompt_masculino": "<image> A Man in a Barbie Style, Ultra HD, 8k",
+      "prompt_feminino": "<image> A Woman in a Barbie Style, Ultra HD, 8k"
+    },
+    {
+      "images": "/cosplay/frozen.png",
+      "description": "",
+      "value": "Frozen",
+      "prompt": "<image> Frozen Style, Ultra HD, 8k",
+      "prompt_masculino": "<image> A Man in a Frozen Style, Ultra HD, 8k",
+      "prompt_feminino": "<image> A Woman in a Frozen Style, Ultra HD, 8k"
+    },
+    {
+      "images": "/cosplay/futurista.png",
+      "description": "",
+      "value": "Futurista",
+      "prompt": "<image> Um cosplay de alguém em algo futurista, 4k, realista, ultra hd",
+      "prompt_masculino": "<image> A Man in a futuristic cosplay, 4k, realista, ultra hd",
+      "prompt_feminino": "<image> A Woman in a futuristic cosplay, 4k, realista, ultra hd"
+    },
+    {
+      "images": "/cosplay/pixar.png",
+      "description": "",
+      "value": "Pixar",
+      "prompt": "<image> Pixar style, High Quality Image, Ultra HD",
+      "prompt_masculino": "<image> A Man in a Pixar style, High Quality Image, Ultra HD",
+      "prompt_feminino": "<image> A Woman in a Pixar style, High Quality Image, Ultra HD"
+    },
+    {
+      "images": "/cosplay/disney.png",
+      "description": "",
+      "value": "Disney",
+      "prompt": "<image> Disney style, ultra realistic, 8k",
+      "prompt_masculino": "<image> A Man in a Disney style, ultra realistic, 8k",
+      "prompt_feminino": "<image> A Woman in a Disney style, ultra realistic, 8k"
+    },
+    {
+      "images": "/cosplay/sonic.png",
+      "description": "",
+      "value": "Sonic",
+      "prompt": "<image> Sonic Style, Ultra HD, 8k",
+      "prompt_masculino": "<image> A Man in a Sonic Style, Ultra HD, 8k",
+      "prompt_feminino": "<image> A Woman in a Sonic Style, Ultra HD, 8k"
+    },
+    {
+      "images": "/cosplay/ghostbuster.png",
+      "description": "",
+      "value": "Ghostbusters",
+      "prompt": "<image> Ghostbusters Style, Ultra HD, 8k",
+      "prompt_masculino": "<image> A Man in a Ghostbusters Style, Ultra HD, 8k",
+      "prompt_feminino": "<image> A Woman in a Ghostbusters Style, Ultra HD, 8k"
+    },
+    {
+      "images": "/cosplay/manga.png",
+      "description": "",
+      "value": "Manga",
+      "prompt": "<image> Manga Style, High Quality Image, Ultra HD",
+      "prompt_masculino": "<image> A Man in a Manga Style, High Quality Image, Ultra HD",
+      "prompt_feminino": "<image> A Woman in a Manga Style, High Quality Image, Ultra HD"
+    },
+    {
+      "images": "/cosplay/cartoon.png",
+      "description": "",
+      "value": "Cartoon",
+      "prompt": "<image>  Cartoon Style, Warner Bros, Ultra HD",
+      "prompt_masculino": "<image> A Man in a  Cartoon Style, Warner Bros, Ultra HD",
+      "prompt_feminino": "<image> A Woman in a  Cartoon Style, Warner Bros, Ultra HD"
+    },
+    {
+      "images": "/cosplay/starwars.png",
+      "description": "",
+      "value": "StarWars",
+      "prompt": "<image>  StarWars Style, Ultra HD, 8K",
+      "prompt_masculino": "<image> A Man in a  StarWars Style, Ultra HD, 8K",
+      "prompt_feminino": "<image> A Woman in a  StarWars Style, Ultra HD, 8K"
+    },
+    {
+      "images": "/cosplay/genshinimpact.png",
+      "description": "",
+      "value": "Genshin Impact",
+      "prompt": "<image>  Genshin Impact Style, Ultra HD, 8K",
+      "prompt_masculino": "<image> A Man in a  Genshin Impact Style, Ultra HD, 8K",
+      "prompt_feminino": "<image> A Woman in a  Genshin Impact Style, Ultra HD, 8K"
+    },
+    {
+      "images": "/cosplay/valorant.png",
+      "description": "",
+      "value": "Valorant",
+      "prompt": "<image>  Valorant Style, Ultra HD, 8K",
+      "prompt_masculino": "<image> A Man in a  Valorant Style, Ultra HD, 8K",
+      "prompt_feminino": "<image> A Woman in a  Valorant Style, Ultra HD, 8K"
+    },
+    {
+      "images": "/cosplay/marvel.png",
+      "description": "",
+      "value": "Marvel",
+      "prompt": "<image> Marvel Style, Ultra HD, 8K",
+      "prompt_masculino": "<image> A Man in a Marvel Style, Ultra HD, 8K",
+      "prompt_feminino": "<image> A Woman in a Marvel Style, Ultra HD, 8K"
+    },
+    {
+      "images": "/cosplay/medieval.png",
+      "description": "",
+      "value": "Medieval",
+      "prompt": "<image> Medieval Style, Realistic image, Ultra HD",
+      "prompt_masculino": "<image> A Man in a Medieval Style, Realistic image, Ultra HD",
+      "prompt_feminino": "<image> A Woman in a Medieval Style, Realistic image, Ultra HD"
+    },
+    {
+      "images": "/cosplay/roblox.png",
+      "description": "",
+      "value": "Roblox",
+      "prompt": "<image> ROBLOX STYLE, ULTRA HD PERSONAGEM",
+      "prompt_masculino": "<image> A Man in a ROBLOX STYLE, ULTRA HD PERSONAGEM",
+      "prompt_feminino": "<image> A Woman in a ROBLOX STYLE, ULTRA HD PERSONAGEM"
+    },
+    {
+      "images": "/cosplay/unreal_epic.png",
+      "description": "",
+      "value": "Epic Games",
+      "prompt": "<image> UNREAL, EPIC GAMES STYLE, ULTRA HD WITH A PERSONAGEM",
+      "prompt_masculino": "<image> A Man in a UNREAL or EPIC GAMES STYLE, ULTRA HD WITH A PERSONAGEM",
+      "prompt_feminino": "<image> A Woman in a UNREAL or EPIC GAMES STYLE, ULTRA HD WITH A PERSONAGEM"
+    }
+  ],
+  "nocosplay": [
+    {
+      "images": "/nocosplay/anime.png",
+      "description": "",
+      "value": "Anime",
+      "prompt": "<image> Anime Style, High Quality Image, Ultra HD",
+      "prompt_masculino": "<image> A Man in a Anime Style, High Quality Image, Ultra HD",
+      "prompt_feminino": "<image> A Woman in a Anime Style, High Quality Image, Ultra HD"
+    },
+    {
+      "images": "/nocosplay/avatar.png",
+      "description": "",
+      "value": "Avatar",
+      "prompt": "<image> Avatar style, realistic, ULTRA HD",
+      "prompt_masculino": "<image> A Man in a Avatar style, realistic, ULTRA HD",
+      "prompt_feminino": "<image> A Woman in a Avatar style, realistic, ULTRA HD"
+    },
+    {
+      "images": "/nocosplay/bladerunner.png",
+      "description": "",
+      "value": "Blade Runner 2049",
+      "prompt": "<image> Blade Runner 2049, ULTRA HD",
+      "prompt_masculino": "<image> A Man in a Blade Runner 2049 style, ULTRA HD",
+      "prompt_feminino": "<image> A Woman in a Blade Runner 2049 style, ULTRA HD"
+    },
+    {
+      "images": "/nocosplay/vikings.png",
+      "description": "",
+      "value": "Vikings",
+      "prompt": "<image> Vikings, Realistic, ULTRA HD, 4k",
+      "prompt_masculino": "<image> A Man in a Vikings style, Realistic, ULTRA HD, 4k",
+      "prompt_feminino": "<image> A Woman in a Vikings style, Realistic, ULTRA HD, 4k"
+    },
+    {
+      "images": "/nocosplay/senhor_dos_aneis.png",
+      "description": "",
+      "value": "Senhor dos Anéis",
+      "prompt": "<image> Senhor dos aneis, realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> A Man in a Senhor dos aneis style, realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> A Woman in a Senhor dos aneis style, realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/nocosplay/harrypotter.png",
+      "description": "",
+      "value": "Harry Potter",
+      "prompt": "<image> Harry Potter, Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> A Man in a Harry Potter style, Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> A Woman in a Harry Potter style, Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/nocosplay/manga.png",
+      "description": "",
+      "value": "Manga",
+      "prompt": "<image> Manga Style, High Quality Image, Ultra HD",
+      "prompt_masculino": "<image> A Man in a Manga Style, High Quality Image, Ultra HD",
+      "prompt_feminino": "<image> A Woman in a Manga Style, High Quality Image, Ultra HD"
+    },
+    {
+      "images": "/nocosplay/pokemon.png",
+      "description": "",
+      "value": "Pokemon",
+      "prompt": "<image> Pokemon, realista, ultra hd, 4k",
+      "prompt_masculino": "<image> A Man in a Pokemon style, realista, ultra hd, 4k",
+      "prompt_feminino": "<image> A Woman in a Pokemon style, realista, ultra hd, 4k"
+    },
+    {
+      "images": "/nocosplay/pixar.png",
+      "description": "",
+      "value": "Pixar",
+      "prompt": "<image> Pixar style, High Quality Image, Ultra HD",
+      "prompt_masculino": "<image> A Man in a Pixar style, High Quality Image, Ultra HD",
+      "prompt_feminino": "<image> A Woman in a Pixar style, High Quality Image, Ultra HD"
+    },
+    {
+      "images": "/nocosplay/disney.png",
+      "description": "",
+      "value": "Disney",
+      "prompt": "<image> Disney style, ultra realistic, 8k",
+      "prompt_masculino": "<image> A Man in a Disney style, ultra realistic, 8k",
+      "prompt_feminino": "<image> A Woman in a Disney style, ultra realistic, 8k"
+    },
+    {
+      "images": "/nocosplay/dreamworks.png",
+      "description": "",
+      "value": "Dream Works",
+      "prompt": "<image> personagem da dream works, realista, ultra hd, 4k",
+      "prompt_masculino": "<image> Um homem em um personagem da dream works, realista, ultra hd, 4k",
+      "prompt_feminino": "<image> Uma mulher em um personagem da dream works, realista, ultra hd, 4k"
+    },
+    {
+      "images": "/nocosplay/shrek.png",
+      "description": "",
+      "value": "Shrek",
+      "prompt": "<image> Sherek, realista, ultra hd, 4k",
+      "prompt_masculino": "<image> A Man in a Sherek style, realistic, ultra hd, 4k",
+      "prompt_feminino": "<image> A Woman in a Sherek style, realistic, ultra hd, 4k"
+    },
+    {
+      "images": "/nocosplay/warnerbros.png",
+      "description": "",
+      "value": "Warner Bros",
+      "prompt": "<image> warner bros personagem, realista, ultra hd, 4k",
+      "prompt_masculino": "<image> Um homem em um personagem warner bros, realistic, ultra hd, 4k",
+      "prompt_feminino": "<image> Uma mulher em um  warner bros, realistic, ultra hd, 4k"
+    },
+    {
+      "images": "/nocosplay/mario_bros.png",
+      "description": "",
+      "value": "Super Mario Bros",
+      "prompt": "<image> Super Mario Bros, ULTRA HD",
+      "prompt_masculino": "<image> A Man in a Super Mario Bros style, ULTRA HD",
+      "prompt_feminino": "<image> A Woman in a Super Mario Bros style, ULTRA HD"
+    },
+    {
+      "images": "/nocosplay/cyberpunk.png",
+      "description": "",
+      "value": "Cyber Punk",
+      "prompt": "<image> Cyber Punk, Futurista, Ultra HD",
+      "prompt_masculino": "<image> A Man in a Cyber Punk style, Futurista, Ultra HD",
+      "prompt_feminino": "<image> A Woman in a Cyber Punk style, Futurista, Ultra HD"
+    },
+    {
+      "images": "/nocosplay/cyborg.png",
+      "description": "",
+      "value": "Cyborg",
+      "prompt": "<image> personagem, cosplay, cyborg, realista, ultra hd, 4k",
+      "prompt_masculino": "<image> A Man in a cyborg style, cosplay, realista, ultra hd, 4k",
+      "prompt_feminino": "<image> A Woman in a cyborg style, cosplay, realista, ultra hd, 4k"
+    }
+  ],
+  "games": [
+    {
+      "images": "/games/2fc24.png",
+      "description": "",
+      "value": "2FC24 (FIFA)",
+      "prompt": "<image> Personagem baseado no jogo 2FC24 (FIFA), Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo 2FC24 (FIFA), Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma mulher em um Personagem baseado no jogo 2FC24 (FIFA), Realista, Ultra Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/games/mortalkombat.png",
+      "description": "",
+      "value": "Mortal Kombat",
+      "prompt": "<image> Personagem baseado no jogo Mortal Kombat, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo Mortal Kombat, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma mulher em um Personagem baseado no jogo Mortal Kombat, Realista, Ultra Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/games/fallguys.png",
+      "description": "",
+      "value": "FallGuys",
+      "prompt": "<image> Personagem baseado no jogo FallGuys, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo FallGuys, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma mulher em um Personagem baseado no jogo FallGuys, Realista, Ultra Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/games/alanwake.png",
+      "description": "",
+      "value": "AlanWake2",
+      "prompt": "<image> Personagem baseado no jogo AlanWake2, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo AlanWake2, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma mulher em um Personagem baseado no jogo AlanWake2, Realista, Ultra Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/games/liesofp.png",
+      "description": "",
+      "value": "Lies of P",
+      "prompt": "<image> Personagem baseado no jogo Lies of P, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo Lies of P, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma mulher em um Personagem baseado no jogo Lies of P, Realista, Ultra Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/games/residentevil4.png",
+      "description": "",
+      "value": "Resident Evil4",
+      "prompt": "<image> Personagem baseado no jogo Resident Evil 4, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo Resident Evil 4, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma mulher em um Personagem baseado no jogo Resident Evil 4, Realista, Ultra Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/games/streetfight.png",
+      "description": "",
+      "value": "Street Fighter 6",
+      "prompt": "<image> Personagem baseado no jogo Street Fighter 6, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo Street Fighter 6, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma mulher em um Personagem baseado no jogo Street Fighter 6, Realista, Ultra Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/games/hifirush.png",
+      "description": "",
+      "value": "Hi-Fi",
+      "prompt": "<image> Personagem baseado no jogo Hi-Fi Rush, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo Hi-Fi Rush, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma mulher em um Personagem baseado no jogo Hi-Fi Rush, Realista, Ultra Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/games/rush.png",
+      "description": "",
+      "value": "RUSH",
+      "prompt": "<image> Personagem baseado no jogo Hi-Fi Rush, Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo Hi-Fi Rush, Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma muhler em um Personagem baseado no jogo Hi-Fi Rush, Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/games/fortnite.png",
+      "description": "",
+      "value": "Fortnite",
+      "prompt": "<image> Personagem baseado no jogo Fortnite, Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo Fortnite, Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma mulher em um Personagem baseado no jogo Fortnite, Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/games/ridersrepublic.png",
+      "description": "",
+      "value": "Riders Republic",
+      "prompt": "<image> Personagem baseado no jogo Riders Republic, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo Riders Republic, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma mulher em um Personagem baseado no jogo Riders Republic, Realista, Ultra Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/games/starfield.png",
+      "description": "",
+      "value": "Starfield",
+      "prompt": "<image> Personagem baseado no jogo StarField, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo StarField, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma mulher em um Personagem baseado no jogo StarField, Realista, Ultra Realista, Ultra HD, 4k"
+    },
+    {
+      "images": "/games/leagueoflegends.png",
+      "description": "",
+      "value": "Legue Of Legends",
+      "prompt": "<image> Personagem baseado no jogo League OF Legends, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_masculino": "<image> Um homem em um Personagem baseado no jogo League OF Legends, Realista, Ultra Realista, Ultra HD, 4k",
+      "prompt_feminino": "<image> Uma mulher em um Personagem baseado no jogo League OF Legends, Realista, Ultra Realista, Ultra HD, 4k"
+    }
+  ],
+  "Educacao": [
+    {
+      "images": "/cogna/albert.png",
+      "description": "",
+      "value": "Albert Einstein",
+      "prompt": "make this person look like albert einsten --cref <image> --sref https://s.mj.run/FUL9y1BrgxY --sw 75 --cw 10",
+      "prompt_masculino": "make this person look like albert einsten --cref <image> --sref https://s.mj.run/FUL9y1BrgxY --sw 75 --cw 10",
+      "prompt_feminino": "make this woman look like albert einsten --cref <image> --sref https://s.mj.run/FUL9y1BrgxY --sw 75 --cw 10"
+    },
+    {
+      "images": "/cogna/professordematematica.png",
+      "description": "",
+      "value": "Professor",
+      "prompt": "a math teacher, surrounded a constellation full of numbers and math equations --cref <image> --sref https://s.mj.run/zcbVSQMlCSU ::1 https://s.mj.run/io-cNbSMzmo ::3 --ar 9:16 --sw 50 --cw 15",
+      "prompt_masculino": "a math teacher, surrounded a constellation full of numbers and math equations --cref <image> --sref https://s.mj.run/zcbVSQMlCSU ::1 https://cdn.midjourney.com/b51cbe93-23a1-484c-9bb0-95938cb50598/0_3.png ::3 --ar 9:16 --sw 50 --cw 15",
+      "prompt_feminino": "a math teacher, surrounded a constellation full of numbers and math equations --cref <image> --sref https://s.mj.run/zcbVSQMlCSU ::1 https://s.mj.run/io-cNbSMzmo ::3 --ar 9:16 --sw 50 --cw 15"
+    },
+    {
+      "images": "/cogna/torre.png",
+      "description": "",
+      "value": "Torre Eiffel",
+      "prompt": "Make this Person sightseeing in paris with eiffel tower in the back --cref <image> --s 1000",
+      "prompt_masculino": "Make this man sightseeing in paris with eiffel tower in the back --cref <image> --s 1000",
+      "prompt_feminino": "Make this woman sightseeing in paris with eiffel tower in the back --cref <image> --s 1000"
+    },
+    {
+      "images": "/cogna/japanese.png",
+      "description": "",
+      "value": "Templo Japonês ",
+      "prompt": "have this person in anime style, lotus position, inside a japanese temple --cref <image> --sref https://s.mj.run/GQ0TaH6TGQw",
+      "prompt_masculino": "have this man in anime style, lotus position, inside a japanese temple --cref <image> --sref https://s.mj.run/GQ0TaH6TGQw",
+      "prompt_feminino": "have this woman in anime style, lotus position, inside a japanese temple --cref <image> --sref https://cdn.discordapp.com/attachments/1298148174262702120/1310600138800107520/u8483436386_httpss.mj.runp8TJ_76iVjg_have_this_person_in_anim_c31d9ed6-4809-43cc-82bc-eea9d554f9f7_1_1.png?ex=6745cefe&is=67447d7e&hm=2aca0d537c6648d22ffd3939152a0f96918f0dd093f68ef7d0137b04891337a5&"
+    },
+    {
+      "images": "/cogna/politico.png",
+      "description": "",
+      "value": "Político histórico americano",
+      "prompt": "American wearing old politician costume on the outside of the white house --cref <image> --sref https://cdn.midjourney.com/e0f676c9-92bf-4a08-9383-8540c3bf0e16/0_0.png --ar 9:16 --cw 75",
+      "prompt_masculino": "American wearing old politician costume on the outside of the white house --cref <image> --sref https://cdn.midjourney.com/e0f676c9-92bf-4a08-9383-8540c3bf0e16/0_0.png --ar 9:16 --cw 75",
+      "prompt_feminino": "American wearing old politician costume on the outside of the white house --cref <image> --sref https://cdn.midjourney.com/703051c7-a551-4d2d-bab3-48f0c48d6253/0_1.png --ar 9:16 --cw 75"
+    },
+    {
+      "images": "/cogna/hub.png",
+      "description": "",
+      "value": "Hub",
+      "prompt": "a character in a educational hub with hologram screens and a cyberpunk aesthetics --cref <image> --sref https://s.mj.run/8SU1djVaTiU --ar 9:16 --sw 50 --cw 50",
+      "prompt_masculino": "a character in a educational hub with hologram screens and a cyberpunk aesthetics --cref <image> --sref https://s.mj.run/8SU1djVaTiU --ar 9:16 --sw 50 --cw 50",
+      "prompt_feminino": "a character in a educational hub with hologram screens and a cyberpunk aesthetics --cref <image> --sref https://cdn.midjourney.com/b18647af-130c-4bd7-a576-5faa00d98993/0_3.png --ar 9:16 --sw 50 --cw 50"
+    },
+    {
+      "images": "/cogna/a.png",
+      "description": "",
+      "value": "Barco na costa italiana",
+      "prompt": "have this person, showing its face, front facing, driving a boat on the italian coast, paiting style --cref <image> --sref https://s.mj.run/2ecs1jehulo --ar 9:16 --sw 500 --cw 100",
+      "prompt_masculino": "have this Man, showing its face, front facing, driving a boat on the italian coast, paiting style --cref <image> --sref https://s.mj.run/2ecs1jehulo --ar 9:16 --sw 500 --cw 100",
+      "prompt_feminino": "have this Woman, showing its face, front facing, driving a boat on the italian coast, paiting style --cref <image> --sref https://cdn.discordapp.com/attachments/1298148174262702120/1310601065116340327/u8483436386_have_this_person_showing_its_face_front_facing_dr_151c050e-e554-481c-91c7-0e2e29039fdd_0.png?ex=6745cfdb&is=67447e5b&hm=446116b7447e7c8a6da803db18210415257ac6352fe6a9f49cf37cd832ae9ed1& --ar 9:16 --sw 500 --cw 100"
+    },
+    {
+      "images": "/cogna/woman.png",
+      "description": "",
+      "value": "woman",
+      "prompt": "a character dressed as a medieval knight, on a farm with several animals such as cows, horses, pigs, photography style. --cref <image> --sref https://s.mj.run/2ecs1jehulo --ar 9:16 --sw 500 --cw 100",
+      "prompt_masculino": "a Man dressed as a medieval knight, on a farm with several animals such as cows, horses, pigs, photography style. --cref <image> --sref https://media.discordapp.net/attachments/1298038016215879700/1319083031322955927/pessoa.png?ex=6764ab4e&is=676359ce&hm=d4094774b5eab125e53b6c101a1fd4604bda37b434f6c1131c89a15a841cfab7&=&format=webp&quality=lossless&width=597&height=597 --ar 9:16 --sw 500 --cw 100",
+      "prompt_feminino": "A woman dressed as a medieval knight, in medieval knight outfit on a farm with various animals such as cows, horses, pigs, photography style. --cref <image> --sref https://media.discordapp.net/attachments/1298038016215879700/1319083031322955927/pessoa.png?ex=6764ab4e&is=676359ce&hm=d4094774b5eab125e53b6c101a1fd4604bda37b434f6c1131c89a15a841cfab7&=&format=webp&quality=lossless&width=597&height=597 --ar 9:16 --sw 50 --cw 25"
+    }
+  ],
+  "Scala": [
+    {
+      "images": "/Scala/1.png",
+      "description": "1",
+      "value": "Medieval",
+      "prompt": "A realistic medieval portrait a person in ornate medieval attire, mounted on a horse, set against a medieval farm field with a castle backdrop, wearing detailed armor, soft golden lighting highlighting intricate textures and embroidery, a rich palette of earthy tones and regal colors, surrounded by torches and banners, highly detailed and lifelike --cref <image> --ar 9:16 --cw 25",
+      "prompt_masculino": "A realistic medieval portrait a person in ornate medieval attire, mounted on a horse, set against a medieval farm field with a castle backdrop, wearing detailed armor, soft golden lighting highlighting intricate textures and embroidery, a rich palette of earthy tones and regal colors, surrounded by torches and banners, highly detailed and lifelike --cref <image> --ar 9:16 --cw 25",
+      "prompt_feminino": "A realistic medieval portrait a person in ornate medieval attire, mounted on a horse, set against a medieval farm field with a castle backdrop, wearing detailed armor, soft golden lighting highlighting intricate textures and embroidery, a rich palette of earthy tones and regal colors, surrounded by torches and banners, highly detailed and lifelike --cref <image> --ar 9:16 --cw 25"
+    },
+    {
+      "images": "/Scala/2.png",
+      "description": "2",
+      "value": "Medieval",
+      "prompt": "a duo of medieval people in ornate medieval attire, set against a medieval farm field with horses and cows in the backdrop, wearing detailed armor, holding medieval props like swords or goblets, soft golden lighting highlighting intricate textures and embroidery, a rich palette of earthy tones and regal colors, surrounded by torches and banners, highly detailed and lifelike --cref <image> --ar 9:16 --cw 25",
+      "prompt_masculino": "A realistic portrait of two people, based on the attached reference photo, seamlessly transformed into medieval characters, wearing ornate medieval attire, standing in a vibrant medieval farm field with horses and cows in the backdrop. Each figure is depicted in detailed armor and holding medieval props like swords or goblets, with soft golden lighting illuminating intricate textures and embroidery. The scene features a rich palette of earthy tones and regal colors, surrounded by torches, banners, and a castle in the distance. The likeness of each person is preserved, with highly detailed, lifelike expressions and proportions, fully immersed in the medieval setting --cref <image> --ar 9:16 --cw 10",
+      "prompt_feminino": "a duo of medieval people in ornate medieval attire, set against a medieval farm field with horses and cows in the backdrop, wearing detailed armor, holding medieval props like swords or goblets, soft golden lighting highlighting intricate textures and embroidery, a rich palette of earthy tones and regal colors, surrounded by torches and banners, highly detailed and lifelike --cref <image> --ar 9:16 --cw 25"
+    },
+    {
+      "images": "/Scala/3.png",
+      "description": "3",
+      "value": "Medieval",
+      "prompt": "a trio of medieval people in ornate medieval attire, set against a medieval farm field with horses and cows in the backdrop, wearing detailed armor, holding medieval props like swords or goblets, soft golden lighting highlighting intricate textures and embroidery, a rich palette of earthy tones and regal colors, surrounded by torches and banners, highly detailed and lifelike --cref <image> --ar 9:16 --cw 25",
+      "prompt_masculino": "A realistic portrait of three people, based on the attached reference photo, seamlessly transformed into medieval characters, wearing ornate medieval attire, standing in a vibrant medieval farm field with horses and cows in the backdrop. Each figure is depicted in detailed armor and holding medieval props like swords or goblets, with soft golden lighting illuminating intricate textures and embroidery. The scene features a rich palette of earthy tones and regal colors, surrounded by torches, banners, and a castle in the distance. The likeness of each person is preserved, with highly detailed, lifelike expressions and proportions, fully immersed in the medieval setting --cref <image> --ar 9:16 --cw 25",
+      "prompt_feminino": "a trio of medieval people in ornate medieval attire, set against a medieval farm field with horses and cows in the backdrop, wearing detailed armor, holding medieval props like swords or goblets, soft golden lighting highlighting intricate textures and embroidery, a rich palette of earthy tones and regal colors, surrounded by torches and banners, highly detailed and lifelike --cref <image> --ar 9:16 --cw 25"
+    },
+    {
+      "images": "/Scala/7.png",
+      "description": "1",
+      "value": "Spartan",
+      "prompt": "An epic Spartan warrior portrait of a person, wearing bronze armor with intricate engravings, crimson capes flowing dramatically, standing in-front of the formation line on a rugged battlefield, dramatic sunset, holding iconic round shields and spears, intense and heroic expressions, rich textures of leather and metal, dynamic lighting enhancing the heroic atmosphere, lifelike and cinematic --cref <image> --ar 9:16 --cw 5 --s 1000",
+      "prompt_masculino": "An epic Spartan warrior portrait of a person, wearing bronze armor with intricate engravings, crimson capes flowing dramatically, standing in-front of the formation line on a rugged battlefield, dramatic sunset, holding iconic round shields and spears, intense and heroic expressions, rich textures of leather and metal, dynamic lighting enhancing the heroic atmosphere, lifelike and cinematic --cref <image> --ar 9:16 --cw 5 --s 1000",
+      "prompt_feminino": "An epic Spartan warrior portrait of a person, wearing bronze armor with intricate engravings, crimson capes flowing dramatically, standing in-front of the formation line on a rugged battlefield, dramatic sunset, holding iconic round shields and spears, intense and heroic expressions, rich textures of leather and metal, dynamic lighting enhancing the heroic atmosphere, lifelike and cinematic --cref <image> --ar 9:16 --cw 5 --s 1000"
+    },
+    {
+      "images": "/Scala/8.png",
+      "description": "2",
+      "value": "Spartan",
+      "prompt": "A duo of Spartan warriors, holding shields and spears, with a modern barn in the background, a dynamic blend of heroic and agricultural elements, photorealistic and bold --cref <image> --ar 9:16 --cw 10",
+      "prompt_masculino": "A duo of Spartan warriors, holding shields and spears, with a modern barn in the background, a dynamic blend of heroic and agricultural elements, photorealistic and bold --cref <image> --ar 9:16 --cw 10",
+      "prompt_feminino": "A duo of Spartan warriors, holding shields and spears, with a modern barn in the background, a dynamic blend of heroic and agricultural elements, photorealistic and bold --cref <image> --ar 9:16 --cw 10"
+    },
+    {
+      "images": "/Scala/9.png",
+      "description": "3",
+      "value": "Spartan",
+      "prompt": "A trio of Spartan warriors, holding shields and spears, with a modern barn in the background, a dynamic blend of heroic and agricultural elements, photorealistic and bold --cref <image> --ar 9:16 --cw 10",
+      "prompt_masculino": "A trio of Spartan warriors, holding shields and spears, with a modern barn in the background, a dynamic blend of heroic and agricultural elements, photorealistic and bold --cref <image> --ar 9:16 --cw 10",
+      "prompt_feminino": "A trio of Spartan warriors, holding shields and spears, with a modern barn in the background, a dynamic blend of heroic and agricultural elements, photorealistic and bold --cref <image> --ar 9:16 --cw 10"
+    },
+    {
+      "images": "/Scala/10.png",
+      "description": "1",
+      "value": "Agricultura",
+      "prompt": "a Professional standing confidently in the middle of lushy green agricultural field during midday, wearing modern farming attire, the open blue sky dotted with clouds in the background, vibrant and inspiring tones, highly detailed realism --cref <image> --ar 9:16 --cw 10",
+      "prompt_masculino": "A realistic portrait of a professional farmer, based on the attached reference photo, standing confidently in the middle of a lush green agricultural field during midday. The figure is dressed in modern farming attire, with the open blue sky dotted with clouds in the background. The scene is vibrant, inspiring, and highly detailed, capturing the richness of the natural surroundings with lifelike realism. The participant's likeness is seamlessly integrated into the setting, maintaining proportionality and detailed features --cref <image> --ar 9:16 --cw 10",
+      "prompt_feminino": "a Professional standing standing confidently in the middle of lushy green agricultural field during midday, wearing modern farming attire, the open blue sky dotted with clouds in the background, vibrant and inspiring tones, highly detailed realism --cref <image> --ar 9:16 --cw 10"
+    },
+    {
+      "images": "/Scala/11.png",
+      "description": "2",
+      "value": "Agricultura",
+      "prompt": "a duo of professionals standing confidently in the middle of lushy green agricultural field during midday, wearing modern farming attire, the open blue sky dotted with clouds in the background, vibrant and inspiring tones, highly detailed realism --cref <image> --ar 9:16 --cw 10",
+      "prompt_masculino": "A realistic portrait of two professional farmers, based on the attached reference photo, standing confidently in the middle of a lush green agricultural field during midday. The figure is dressed in modern farming attire, with the open blue sky dotted with clouds in the background. The scene is vibrant, inspiring, and highly detailed, capturing the richness of the natural surroundings with lifelike realism. The participant's likeness is seamlessly integrated into the setting, maintaining proportionality and detailed features --cref <image> --ar 9:16 --cw 25",
+      "prompt_feminino": "a duo of professionals standing confidently in the middle of lushy green agricultural field during midday, wearing modern farming attire, the open blue sky dotted with clouds in the background, vibrant and inspiring tones, highly detailed realism --cref <image> --ar 9:16 --cw 10"
+    },
+    {
+      "images": "/Scala/12.png",
+      "description": "3",
+      "value": "Agricultura",
+      "prompt": "a trio of professionals standing confidently in the middle of lushy green agricultural field during midday, wearing modern farming attire, the open blue sky dotted with clouds in the background, vibrant and inspiring tones, highly detailed realism --cref <image> --ar 9:16 --cw 10",
+      "prompt_masculino": "A realistic portrait of three professional farmers, based on the attached reference photo, standing confidently in the middle of a lush green agricultural field during midday. The figure is dressed in modern farming attire, with the open blue sky dotted with clouds in the background. The scene is vibrant, inspiring, and highly detailed, capturing the richness of the natural surroundings with lifelike realism. The participant's likeness is seamlessly integrated into the setting, maintaining proportionality and detailed features --cref <image> --ar 9:16 --cw 50",
+      "prompt_feminino": "a trio of professionals standing confidently in the middle of lushy green agricultural field during midday, wearing modern farming attire, the open blue sky dotted with clouds in the background, vibrant and inspiring tones, highly detailed realism --cref <image> --ar 9:16 --cw 10"
+    },
+    {
+      "images": "/Scala/13.png",
+      "description": "1",
+      "value": "Pecuaria Leiteira",
+      "prompt": "a vivid and realistic portrait of a modern farmer, standing in the middle of a cow barn, with rows of cows in their stalls, sunlight streaming through, creating a warm and inviting glow, clean barn environment, photorealistic textures and lighting --cref <image> --sref https://s.mj.run/HRp8vwDVUj0 --ar 9:16",
+      "prompt_masculino": "a vivid and realistic portrait of a modern farmer, standing in the middle of a cow barn, with rows of cows in their stalls, sunlight streaming through, creating a warm and inviting glow, clean barn environment, photorealistic textures and lighting --cref <image> --sref https://s.mj.run/HRp8vwDVUj0 --ar 9:16",
+      "prompt_feminino": "a vivid and realistic portrait of a modern farmer, standing in the middle of a cow barn, with rows of cows in their stalls, sunlight streaming through, creating a warm and inviting glow, clean barn environment, photorealistic textures and lighting --cref <image> --sref https://s.mj.run/HRp8vwDVUj0 --ar 9:16"
+    },
+    {
+      "images": "/Scala/14.png",
+      "description": "2",
+      "value": "Pecuaria Leiteira",
+      "prompt": "a vivid and realistic portrait of two different modern farmers, standing in the middle of a cow barn, with rows of cows in their stalls, sunlight streaming through, creating a warm and inviting glow, clean barn environment, photorealistic textures and lighting --cref <image> --sref https://s.mj.run/HRp8vwDVUj0 --ar 9:16",
+      "prompt_masculino": "a vivid and realistic portrait of two different modern farmers, standing in the middle of a cow barn, with rows of cows in their stalls, sunlight streaming through, creating a warm and inviting glow, clean barn environment, photorealistic textures and lighting --cref <image> --sref https://s.mj.run/HRp8vwDVUj0 --ar 9:16",
+      "prompt_feminino": "a vivid and realistic portrait of two different modern farmers, standing in the middle of a cow barn, with rows of cows in their stalls, sunlight streaming through, creating a warm and inviting glow, clean barn environment, photorealistic textures and lighting --cref <image> --sref https://s.mj.run/HRp8vwDVUj0 --ar 9:16"
+    },
+    {
+      "images": "/Scala/15.png",
+      "description": "3",
+      "value": "Pecuaria Leiteira",
+      "prompt": "a vivid and realistic portrait of three different modern farmers, standing in the middle of a cow barn, with rows of cows in their stalls, sunlight streaming through, creating a warm and inviting glow, clean barn environment, photorealistic textures and lighting --cref <image> --sref https://s.mj.run/HRp8vwDVUj0 --ar 9:16",
+      "prompt_masculino": "a vivid and realistic portrait of three different modern farmers, standing in the middle of a cow barn, with rows of cows in their stalls, sunlight streaming through, creating a warm and inviting glow, clean barn environment, photorealistic textures and lighting --cref <image> --sref https://s.mj.run/HRp8vwDVUj0 --ar 9:16",
+      "prompt_feminino": "a vivid and realistic portrait of three different modern farmers, standing in the middle of a cow barn, with rows of cows in their stalls, sunlight streaming through, creating a warm and inviting glow, clean barn environment, photorealistic textures and lighting --cref <image> --sref https://s.mj.run/HRp8vwDVUj0 --ar 9:16"
+    },
+    {
+      "images": "/Scala/16.png",
+      "description": "1",
+      "value": "Agro-Inovação 1 pessoa",
+      "prompt": "A futuristic portrait of a person, in field farm surrounded by advanced agricultural technology, innovative farming machinery, in modern farming attire, earthy tones blended with neon highlights, soft diffused lighting beautiful skies with, detailed and lifelike --cref <image> --ar 9:16 --cw 50",
+      "prompt_masculino": "A realistic portrait of a futuristic farmer, based on the attached reference photo, seamlessly integrated into an advanced agricultural field. They are surrounded by innovative farming machinery and advanced agricultural technology, wearing modern farming attire with earthy tones blended with neon highlights. The scene is illuminated with soft, diffused lighting, set against a beautiful sky. The likeness of each participant is fully preserved, with detailed and lifelike expressions, seamlessly immersed in the high-tech farming environment --cref <image> --ar 9:16 --cw 10",
+      "prompt_feminino": "A futuristic portrait of a person, in field farm surrounded by advanced agricultural technology, innovative farming machinery, in modern farming attire, earthy tones blended with neon highlights, soft diffused lighting beautiful skies with, detailed and lifelike --cref <image> --ar 9:16 --cw 50"
+    },
+    {
+      "images": "/Scala/17.png",
+      "description": "2",
+      "value": "Agro-Inovação 2 pessoas",
+      "prompt": "a duo of futuristic farmers, in field farm surrounded by advanced agricultural technology, innovative farming machinery, in modern farming attire, earthy tones blended with neon highlights, soft diffused lighting beautiful skies with, detailed and lifelike --cref <image> --ar 9:16 --cw 50",
+      "prompt_masculino": "A realistic portrait of two futuristic farmers, based on the attached reference photo, seamlessly integrated into an advanced agricultural field. They are surrounded by innovative farming machinery and advanced agricultural technology, wearing modern farming attire with earthy tones blended with neon highlights. The scene is illuminated with soft, diffused lighting, set against a beautiful sky. The likeness of each participant is fully preserved, with detailed and lifelike expressions, seamlessly immersed in the high-tech farming environment --cref <image> --ar 9:16 --cw 25",
+      "prompt_feminino": "a duo of futuristic farmers, in field farm surrounded by advanced agricultural technology, innovative farming machinery, in modern farming attire, earthy tones blended with neon highlights, soft diffused lighting beautiful skies with, detailed and lifelike --cref <image> --ar 9:16 --cw 50"
+    },
+    {
+      "images": "/Scala/18.png",
+      "description": "3",
+      "value": "Agro-Inovação 3 pessoas",
+      "prompt": "a trio of futuristic farmers, in field farm surrounded by advanced agricultural technology, innovative farming machinery, in modern farming attire, earthy tones blended with neon highlights, soft diffused lighting beautiful skies with, detailed and lifelike --cref <image> --ar 9:16 --cw 50",
+      "prompt_masculino": "A realistic portrait of three futuristic farmers, based on the attached reference photo, seamlessly integrated into an advanced agricultural field. They are surrounded by innovative farming machinery and advanced agricultural technology, wearing modern farming attire with earthy tones blended with neon highlights. The scene is illuminated with soft, diffused lighting, set against a beautiful sky. The likeness of each participant is fully preserved, with detailed and lifelike expressions, seamlessly immersed in the high-tech farming environment --cref <image> --ar 9:16 --cw 50",
+      "prompt_feminino": "a trio of futuristic farmers, in field farm surrounded by advanced agricultural technology, innovative farming machinery, in modern farming attire, earthy tones blended with neon highlights, soft diffused lighting beautiful skies with, detailed and lifelike --cref <image> --ar 9:16 --cw 50"
+    }
+  ]
+}
